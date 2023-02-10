@@ -14,10 +14,6 @@ Data Security
 
 The App does not store any personal information, so there is no personal information to protect. We have implemented appropriate technical and organizational measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data.
 
-Changes to this Privacy Policy
-
-We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page. If we make any material changes to the policy, we will provide you with notice of such changes through the App or by other means, if required by law.
-
 Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact me at s.shawn.zimmerman@gmail.com.
