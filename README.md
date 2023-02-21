@@ -8,6 +8,10 @@ When the stopwatch is paused or reset the time is copied to the clipboard.
 
 ![Alt text](2023-02-10_17-20.png)
 
+
+
 ![Alt text](2023-02-10_17-18.png)
+
+
 
 ![Alt text](2023-02-10_17-15.png)
