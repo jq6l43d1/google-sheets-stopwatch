@@ -109,7 +109,7 @@ function mountTimer(mountToEl) {
       lastPlay = new Date().getTime() / 1000
     }
     const pause = () => {
-      navigator.clipboard.writeText(secsToTime(duration, true))
+      navigator.clipboard.writeText("'" + secsToTime(duration, true))
       interval.stop()
     }
 
